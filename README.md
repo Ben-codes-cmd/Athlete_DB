@@ -27,7 +27,7 @@ Thank you for taking the time to view my project!
 
 While working on this project I have learned about organizing object oriented code. I also familiarized myself with sql syntax, which was unique (and straightforward) in its declarative nature. I am beginning to understand the concept of encapsulation and why it is important on a larger scale. In future projects, I will look to incorporate better object structure through inheritance and interfaces. Consistent with previous projects, I strived for modularity in my code to make it both readable and modifiable.
 
-## Added functionalities
+## future additions
 
 Some functionalities that could be added in the future are:
 - Extensive record keeping for previous athlete lifts
